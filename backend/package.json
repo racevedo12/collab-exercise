@@ -1,0 +1,26 @@
+{
+  "name": "collab-exercise",
+  "version": "1.0.0",
+  "description": "# dimitri",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/racevedo12/collab-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/racevedo12/collab-exercise/issues"
+  },
+  "homepage": "https://github.com/racevedo12/collab-exercise#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.7"
+  }
+}
