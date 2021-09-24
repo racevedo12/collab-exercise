@@ -23,7 +23,13 @@ This app where people can buy and sell items. Users can view lists of items for 
 
 ### Models and Properties
 
----
+#### Item
+* Name
+* Description
+* Price
+
+#### Order
+* listOfItems
 
 ### User Story
 
