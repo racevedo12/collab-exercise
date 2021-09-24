@@ -25,11 +25,23 @@ This app where people can buy and sell items. Users can view lists of items for 
 
 #### Item
 * Name
+  - type: String
+  - required: true
+  
 * Description
+  - type: String
+  - required: true
+  
 * Price
+  - type: String
+  - required: true
 
 #### Order
 * listOfItems
+  - type: Array
+      - type: Item
+      
+  - default: []
 
 ### User Story
 
