@@ -14,7 +14,7 @@ This app where people can buy and sell items. Users can view lists of items for 
 
 ### Wireframe
 
-![welcome page](shopping.png)
+![welcome page](welcome.png)
 
 ![shopping area](shopping.png)
 
